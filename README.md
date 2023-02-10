@@ -1,58 +1,56 @@
-## ThingsToDo App
+# ThingsToDo App
 
 This is a simple task management application built using React. It allows users to create and manage tasks, including creating, reading, updating, and deleting tasks.
 
 You can view this App Live: https://thingstodo-one.vercel.app/
 
-# Features
+### Features
 
 + Create new tasks with title and content
 + View a list of all tasks
 + Edit existing tasks
 + Delete tasks
 
-# Prerequisites
+### Prerequisites
 
 + Node.js and npm installed on your local machine
 
-# Installation
+### Installation
 
 1. Clone the repository to your local machine
-bash
-Copy code
-git clone https://github.com/[your-username]/ThingsToDo.git
+
+> git clone https://github.com/[your-username]/ThingsToDo.git
 
 2. Navigate to the project directory
-bash
-Copy code
-cd ThingsToDo
+
+> cd ThingsToDo
 
 3. Install the required dependencies
-Copy code
-npm install
+
+> npm install
 
 4. Start the development server
-sql
-Copy code
-npm start
+
+> npm start
+
 5. Open your browser and navigate to http://localhost:3000 to see the app
 
-# Technologies Used
+### Technologies Used
 
 + React
 + JavaScript
 + CSS
 
-# Contributing
+### Contributing
 
 1. Fork the repository
 2. Create a new branch with your changes
 3. Commit your changes
 4. Push to your fork and submit a pull request
 
-# Author
+### Author
 Krist
 
-# License
+### License
 
 This project is licensed under the MIT License.
